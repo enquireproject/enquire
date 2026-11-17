@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: ENQUIRE 
-description: Using routine health data to undErstaNd eQUIty in canceR carE: A quantitative study with embedded stakeholder engagement
+description: Using routine health data to undErstaNd eQUIty in canceR carE - A quantitative study with embedded stakeholder engagement
