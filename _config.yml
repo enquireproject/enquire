@@ -5,5 +5,5 @@ plugins:
   - jekyll-sitemap
 title: ENQUIRE 
 description: Using routine health data to undErstaNd eQUIty in canceR carE - A quantitative study with embedded stakeholder engagement
-markdown: GFM
+markdown: Kramdown
 baseurl: /
